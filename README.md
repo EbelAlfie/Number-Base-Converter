@@ -1,4 +1,4 @@
-## Number-Base-Converter
+## Number Base Converter
 This is a solution to Kotlin number base converter course on Jetbrain
 
 Fractional numbers can also be converted from one base to another, so let's add this functionality to our program!
